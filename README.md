@@ -2,11 +2,9 @@
 - Install Node.js
 - Create React.js
   npm create-react-app
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Open CLI
+  npm start
+  
 
 ## Available Scripts
 
